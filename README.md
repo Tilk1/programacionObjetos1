@@ -1,6 +1,6 @@
 # Resolucion de problemas bajo el paradigma de orientacion a objetos
 
-Lenguaje JAVA
+Lenguaje JAVA , Modelados UML. Buenas practicas de programacion OO
 
 ![](https://i.imgur.com/H3LgduD.png)
 
